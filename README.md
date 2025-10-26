@@ -32,9 +32,9 @@
 <div align="center">
   <h2>📊 Minhas Estatísticas do GitHub</h2>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathEu5_exe&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathEu5-exe&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
     <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathEu5_exe&layout=compact&theme=dracula" alt="Linguagens Mais Usadas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathEu5-exe&layout=compact&theme=dracula" alt="Linguagens Mais Usadas">
   </p>
 </div>
 
@@ -46,7 +46,5 @@
     <a href="[SEU_LINK_LINKEDIN]" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:[SEU_EMAIL]" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </p>
 </div>

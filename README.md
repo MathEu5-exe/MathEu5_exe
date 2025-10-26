@@ -13,8 +13,8 @@
   <h2>Sobre Mim</h2>
   <p>
     Atualmente estou procurando aprofundar meus estudos em lógica de programação em C, além de HTML.
-    Tenho interesse nas áreas de game dev e estrutura de dados. 
-    Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos interessantes!
+    Tenho interesse nas áreas de game dev 🎮 e estrutura de dados 🎲. 
+    Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos interessantes 🎯!
   </p>
 </div>
 

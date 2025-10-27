@@ -43,7 +43,7 @@
 <div align="center">
   <h2>📫 Entre em Contato</h2>
   <p>
-    <a href="[SEU_LINK_LINKEDIN]" target="_blank">
+    <a href="https://www.linkedin.com/in/matheus-endo-manoel3356" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
